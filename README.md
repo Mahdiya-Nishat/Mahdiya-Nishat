@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mahdiya-Nishat
-- 👀 I’m interested in Cybersecurity and Network Security
-- 🌱 I’m currently learning Federated Systems
+- 🌱 My research areas include Quantum Computing, Quantum Communications, Post Quantum Security and Quantum Machine Learning
 - 💞️ I’m looking to collaborate on [currently unavilable]
 - 📫 How to reach me ...[will post soon]
 - 😄 Pronouns: ...Meowww
