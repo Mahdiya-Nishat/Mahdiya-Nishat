@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahdiya-Nishat
-- 🌱 My research areas include Quantum Computing, Quantum Communications, Post Quantum Security and Quantum Machine Learning
+- 🌱 My research areas include Cybersecurity
 - 💞️ I’m looking to collaborate on [currently unavilable]
 - 📫 How to reach me ...[will post soon]
 - 😄 Pronouns: ...Meowww
